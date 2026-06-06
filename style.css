@@ -101,8 +101,8 @@ margin-top: -650px
    
     outline: 3px outset #c4a882;
     border-radius:4px;
-    padding: 0px 0px;
-    margin: 10px auto;
+    padding: 10px 0px;
+    margin: 0px auto;
     transition:box-shadow 0.2s ease;
    
 }
